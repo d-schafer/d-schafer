@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @d-schafer
 - 👀 I’m a PhD Candidate in Political Science at the Graduate Center, City University of New York.
-- 🌱 I’m learning to use R (and some Python) for text analysis. I'm particular interested in the language of political elites in Turkey 
-      (and then maybe other countries when I got better at this kind of analysis).
-- 💞️ I'd be very interested in collaborating with computer scientists (or anyone who knows the programming better than me). I can provide the political theory!
+- 🌱 I use R (and some Python) for sentiment analysis of textual data and network analysis of social media data. I'm particular interested in the language of political elites in Turkey (and then eventually other countries).
+- 💞️ I'd be very interested in collaborating with computer scientists (or anyone with expertise in natural language processing, especially with langauges like Turkish). I can provide the political theory!
 - 📫 You can reach me at dschafer[at]gradcenter[dot]cuny[dot]edu.
 
 <!---
